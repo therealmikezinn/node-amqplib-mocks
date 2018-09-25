@@ -1,0 +1,7 @@
+{
+  "name": "node-amqplib-mocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Zinnn",
+  "license": "MIT"
+}
