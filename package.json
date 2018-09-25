@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Michael Zinnn",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sinon": "^6.3.4"
+  }
 }
